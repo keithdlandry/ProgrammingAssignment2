@@ -44,7 +44,7 @@ cacheSolve <- function(x, ...) {
   }
 }
 
-## I was bored at work so I made a thrid function to improve on the same idea.
+## I made a thrid function to improve on the same idea.
 ## This function creates a structure of functions simillar to the makeCacheMatrix 
 ## but with the functionality of cacheSolve built in. 
 
